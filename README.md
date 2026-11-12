@@ -131,7 +131,7 @@ This repo focuses on live, practical programs that help early-stage teams build 
 
 These directories and articles track startup credits and perks across cloud, AI, and dev tools, and are good places to discover new programs or verify offers.
 
-- **Credit for Startups** – Dedicated directory of AI, cloud, and dev credits worth millions in aggregate for founders.  
+- **[Credit for Startups](https://creditforstartups.com/)** – Dedicated directory of AI, cloud, and dev credits worth millions in aggregate for founders.  
 - **Startup Perks Directory** – Directory of startup credits and perks focused on cloud and AI tooling.  
 - **Essential Startup Credits Lists** – Deep-dive blog posts and scraped lists that regularly highlight new or high-value equity-free credits (e.g., “12 high-value credits in 2026”, “ultimate list of startup credits”).  
 
